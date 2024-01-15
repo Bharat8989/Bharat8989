@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Bharat 
+
+# I'm Passionate for Web Development
 
 <!--
 **Bharat8989/Bharat8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me :
+
+- 🔭 I’m currently learning web development
+- 🧑‍💻 I'm pre-final year computer science engineering student.
+- 📈 I keep an attitude of growth and hardwork.
+
+
+# Contact Me : 
+<a href="https://www.instagram.com/bharat_kadam__96k/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" height="40px" width="40px"></a>
+
