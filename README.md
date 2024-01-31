@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 # Contact Me : 
-<a href="https://www.instagram.com/bharat_kadam__96k/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" height="40px" width="40px"></a>
+<a href="[https://www.instagram.com/bharat_kadam__96k/](https://www.linkedin.com/in/bharat-kadam-044aa6247/)"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png](https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain)https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain" height="40px" width="40px"></a>
 
