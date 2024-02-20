@@ -1,29 +1,32 @@
-### Hi there 👋 I'm Bharat 
+# Hi there! 👋 I'm Bharat
 
-# I'm Passionate for Web Development
+## About Me
 
-<!--
-**Bharat8989/Bharat8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year computer science engineering student passionate about web development. I believe in continuous growth and hard work to enhance my skills.
 
-Here are some ideas to get you started:
+### 🔭 Currently Learning
+- Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Skills
+- HTML5, CSS3, JavaScript
+- React.js, Node.js, Express.js
+- MongoDB, SQL
+- Git, GitHub
 
-# About Me :
+### 🌱 Interests
+- Creating responsive and interactive web applications
+- Exploring new technologies and frameworks
 
-- 🔭 I’m currently learning web development
-- 🧑‍💻 I'm pre-final year computer science engineering student.
-- 📈 I keep an attitude of growth and hardwork.
+### 🎓 Education
+- Pre-final year Computer Science Engineering student
 
+### 🚀 Projects
+- [Project 1](link-to-project-1): Brief description
+- [Project 2](link-to-project-2): Brief description
 
-# Contact Me : 
-<a href="https://www.linkedin.com/in/bharat-kadam-044aa6247/"><img src="https://th.bing.com/th/id/R.14f8d0d8ea255a03471032d79087fdf0?rik=Jcph23UZL08iCA&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f03%2fColor-of-the-LinkedIn-Logo.jpg&ehk=hT5Ibkg%2fFPa%2f7TPm%2fs2TP8Fxdd7ySQQBuZmn88xh5j0%3d&risl=&pid=ImgRaw&r=0" alt="" width="45px" height="45px" ></a>
+### 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
+- Email: your@email.com
+- Personal Website: yourwebsite.com
 
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat! 😄
