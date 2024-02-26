@@ -10,6 +10,7 @@ Passionate Web Development Student proficient in various web technologies, inclu
 - JavaScript
 
 ### 🧑‍💻 Skills
+- C, C++, JAVA
 - HTML5, CSS3, JavaScript
 - Git, GitHub
 
