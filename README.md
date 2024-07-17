@@ -8,10 +8,11 @@ Passionate Web Development Student proficient in various web technologies, inclu
 ### 🔭 Currently Learning
 - Web development
 - JavaScript
+- React
 
 ### 🧑‍💻 Skills
 - C, C++, JAVA
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript,React
 - Git, GitHub
 
 ### 🌱 Interests
