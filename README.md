@@ -26,3 +26,6 @@ Passionate Web Development Student proficient in various web technologies, inclu
 - [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
 - Email: kadamb208@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=Manmit124&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
