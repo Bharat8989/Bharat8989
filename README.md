@@ -2,8 +2,8 @@
 
 ## About Me
 
-Passionate Web Development Student proficient in various web technologies, including HTML, CSS, JavaScript, and more.
- Let's Code for a Better Tomorrow
+Passionate Web Development Student proficient in various web technologies, including HTML, CSS, JavaScript, and more.  
+Let's Code for a Better Tomorrow.
 
 ### 🔭 Currently Learning
 - Web development
@@ -12,7 +12,7 @@ Passionate Web Development Student proficient in various web technologies, inclu
 
 ### 🧑‍💻 Skills
 - C, C++, JAVA
-- HTML5, CSS3, JavaScript,React
+- HTML5, CSS3, JavaScript, React
 - Git, GitHub
 
 ### 🌱 Interests
@@ -26,6 +26,5 @@ Passionate Web Development Student proficient in various web technologies, inclu
 - [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
 - Email: kadamb208@gmail.com
 
+### Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Bharat8989&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
