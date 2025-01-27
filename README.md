@@ -9,6 +9,7 @@ Let's Code for a Better Tomorrow.
 - Web development
 - JavaScript
 - React
+- Node
 
 ### 🧑‍💻 Skills
 - C, C++, JAVA
