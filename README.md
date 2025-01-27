@@ -27,5 +27,3 @@ Let's Code for a Better Tomorrow.
 - [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
 - Email: kadamb208@gmail.com
 
-### Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Bharat8989&icon=2&color=0)](https://visitcount.itsvg.in)
