@@ -10,6 +10,7 @@ Let's Code for a Better Tomorrow.
 - JavaScript
 - React
 - Node
+- Express
 
 ### 🧑‍💻 Skills
 - C, C++, JAVA
