@@ -1,30 +1,38 @@
-# Hi there! 👋 I'm Bharat
+# Hi there! 👋 I'm Bharat  
 
-## About Me
+## About Me  
+I am a passionate Web Development student, proficient in various web technologies like HTML, CSS, JavaScript, and more.  
+**"Let's Code for a Better Tomorrow."**
 
-Passionate Web Development Student proficient in various web technologies, including HTML, CSS, JavaScript, and more.  
-Let's Code for a Better Tomorrow.
+---
+ 
+### 🔭 Currently Learning  
+- Web Development  
+- JavaScript  
+- React  
+- Node.js  
+- Express.js  
 
-### 🔭 Currently Learning
-- Web development
-- JavaScript
-- React
-- Node
-- Express
+---
 
-### 🧑‍💻 Skills
-- C, C++, JAVA
-- HTML5, CSS3, JavaScript, React
-- Git, GitHub
+### 🧑‍💻 Skills  
+- **Programming Languages**: C, C++, Java  
+- **Web Technologies**: HTML5, CSS3, JavaScript, React, Node.js  
+- **Version Control**: Git, GitHub  
 
-### 🌱 Interests
-- Creating responsive and interactive web applications
-- Exploring new technologies and frameworks
+---
 
-### 🎓 Education
-- Pre-final year Computer Science Engineering student
+### 🌱 Interests  
+- Designing and building responsive, interactive web applications  
+- Exploring and learning new technologies and frameworks  
 
-### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
-- Email: kadamb208@gmail.com
+---
 
+### 🎓 Education  
+- Pre-final year **Computer Science Engineering** student  
+
+---
+
+### 📫 Contact Me  
+- **LinkedIn**: [Bharat Kadam](https://www.linkedin.com/in/bharat-kadam-044aa6247/)  
+- **Email**: [kadamb208@gmail.com](mailto:kadamb208@gmail.com)  
