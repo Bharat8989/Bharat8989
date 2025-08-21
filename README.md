@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Bharat  
 
 ## About Me  
-I am a passionate Web Development student, proficient in various web technologies like HTML, CSS, JavaScript, and more.  
+I am a passionate Web Development student, proficient in various web technologies like HTML, CSS, JavaScript, React.js, Next.js, and Express.js.
+With a strong foundation in frontend and backend development, I aim to build responsive, scalable, and user-friendly web applications. 
 **"Let's Code for a Better Tomorrow."**
 
 ---
