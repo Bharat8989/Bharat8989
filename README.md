@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **B.Tech Computer Science and Engineering Graduate** and an aspiring **Full Stack Web Developer**. I enjoy building responsive, scalable, and user-friendly web applications using modern web technologies. I am continuously learning new tools and frameworks to improve my development skills and create impactful software.
+I am a passionate **B.Tech Computer Science and Engineering Graduate** and an aspiring **Full Stack Web Developer**. I enjoy building responsive, scalable, and user-friendly web applications using modern web technologies. I am continuously improving my skills by building real-world projects and exploring modern development practices.
 
 > **"Let's Code for a Better Tomorrow."**
 
@@ -10,16 +10,8 @@ I am a passionate **B.Tech Computer Science and Engineering Graduate** and an as
 
 ## 🔭 Currently Learning
 
-* Full Stack Web Development
-* Python
-* Django
-* Flask
-* SQL & Database Design
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* REST APIs
+* Django REST Framework (DRF)
+* RESTful API Development
 
 ---
 
@@ -65,11 +57,11 @@ I am a passionate **B.Tech Computer Science and Engineering Graduate** and an as
 ## 🌱 Interests
 
 * Full Stack Web Development
-* Responsive Web Design
 * Backend Development
 * REST API Development
 * Database Design
-* Learning Modern Frameworks & Technologies
+* Building Scalable Web Applications
+* Learning Modern Technologies
 
 ---
 
