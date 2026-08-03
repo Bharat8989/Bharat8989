@@ -1,39 +1,90 @@
-# Hi there! 👋 I'm Bharat  
+# Hi there! 👋 I'm Bharat
 
-## About Me  
-I am a passionate Web Development student, proficient in various web technologies like HTML, CSS, JavaScript, React.js, Next.js, and Express.js.
-With a strong foundation in frontend and backend development, I aim to build responsive, scalable, and user-friendly web applications. 
-**"Let's Code for a Better Tomorrow."**
+## 🚀 About Me
 
----
- 
-### 🔭 Currently Learning  
-- Web Development  
-- JavaScript  
-- React  
-- Node.js  
-- Express.js  
+I am a passionate **B.Tech Computer Science and Engineering Graduate** and an aspiring **Full Stack Web Developer**. I enjoy building responsive, scalable, and user-friendly web applications using modern web technologies. I am continuously learning new tools and frameworks to improve my development skills and create impactful software.
+
+> **"Let's Code for a Better Tomorrow."**
 
 ---
 
-### 🧑‍💻 Skills  
-- **Programming Languages**: C, C++, Java  
-- **Web Technologies**: HTML5, CSS3, JavaScript, React, Node.js  
-- **Version Control**: Git, GitHub  
+## 🔭 Currently Learning
+
+* Full Stack Web Development
+* Python
+* Django
+* Flask
+* SQL & Database Design
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* REST APIs
 
 ---
 
-### 🌱 Interests  
-- Designing and building responsive, interactive web applications  
-- Exploring and learning new technologies and frameworks  
+## 💻 Tech Stack
+
+### Programming Languages
+
+* C
+* C++
+* Java
+* Python
+* JavaScript
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Next.js
+
+### Backend
+
+* Node.js
+* Express.js
+* Django
+* Flask
+
+### Databases
+
+* SQL
+* MySQL
+* SQLite
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-### 🎓 Education  
-- Pre-final year **Computer Science Engineering** student  
+## 🌱 Interests
+
+* Full Stack Web Development
+* Responsive Web Design
+* Backend Development
+* REST API Development
+* Database Design
+* Learning Modern Frameworks & Technologies
 
 ---
 
-### 📫 Contact Me  
-- **LinkedIn**: [Bharat Kadam](https://www.linkedin.com/in/bharat-kadam-044aa6247/)  
-- **Email**: [kadamb208@gmail.com](mailto:kadamb208@gmail.com)  
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**
+**Computer Science and Engineering**
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** https://www.linkedin.com/in/bharat-kadam-044aa6247/
+* **Email:** [kadamb208@gmail.com](mailto:kadamb208@gmail.com)
+
+---
+
+⭐ **"Code. Learn. Build. Improve. Repeat."**
